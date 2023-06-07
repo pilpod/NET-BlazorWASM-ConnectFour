@@ -322,7 +322,7 @@
         }
       },
       {
-        "HashCode": -2062205068,
+        "HashCode": 306352660,
         "Kind": "Components.Component",
         "Name": "ConnectFour.Shared.Board",
         "AssemblyName": "ConnectFour",
@@ -330,6 +330,35 @@
         "TagMatchingRules": [
           {
             "TagName": "Board"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "BoardColor",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "BoardColor",
+              "Common.GloballyQualifiedTypeName": "global::System.Drawing.Color"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Player1Color",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "Player1Color",
+              "Common.GloballyQualifiedTypeName": "global::System.Drawing.Color"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Player2Color",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "Player2Color",
+              "Common.GloballyQualifiedTypeName": "global::System.Drawing.Color"
+            }
           }
         ],
         "Metadata": {
@@ -340,7 +369,7 @@
         }
       },
       {
-        "HashCode": 1731690914,
+        "HashCode": 1489531193,
         "Kind": "Components.Component",
         "Name": "ConnectFour.Shared.Board",
         "AssemblyName": "ConnectFour",
@@ -348,6 +377,35 @@
         "TagMatchingRules": [
           {
             "TagName": "ConnectFour.Shared.Board"
+          }
+        ],
+        "BoundAttributes": [
+          {
+            "Kind": "Components.Component",
+            "Name": "BoardColor",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "BoardColor",
+              "Common.GloballyQualifiedTypeName": "global::System.Drawing.Color"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Player1Color",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "Player1Color",
+              "Common.GloballyQualifiedTypeName": "global::System.Drawing.Color"
+            }
+          },
+          {
+            "Kind": "Components.Component",
+            "Name": "Player2Color",
+            "TypeName": "System.Drawing.Color",
+            "Metadata": {
+              "Common.PropertyName": "Player2Color",
+              "Common.GloballyQualifiedTypeName": "global::System.Drawing.Color"
+            }
           }
         ],
         "Metadata": {
